@@ -1,2 +1,0 @@
-"Hello, DevOps 02!" 
-"Selamat datang di dunia DevOps 02!" 
